@@ -8,7 +8,7 @@ Welcome to my GitHub! I build smart, automated solutions that make digital syste
 
 ## 💡 About Me
 
-* 🤖 **Generative AI & Chatbot Developer** (Dialogflow, RASA, custom Python bots)
+* 🤖 **Generative AI & Chatbot Developer** (Dialogflow, Flowise, Kummunicate)
 * 🧠 **Agentic AI Workflows** – building autonomous task agents
 * 🔗 **Automation Specialist** – Google Sheets, Email, Webhooks, Backend APIs
 * 💼 **Lead Generation & Outreach** – optimized systems for scaling businesses
