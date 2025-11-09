@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muzammil Ahmed
 
-### 🚀 AI & Automation Developer | WordPress Expert | Chatbot & Dialogflow Specialist
+### 🚀 AI & Automation Developer | Chatbot & Dialogflow Specialist
 
 Welcome to my GitHub! I build smart, automated solutions that make digital systems faster, simpler, and more efficient. From AI-powered chatbots to workflow automation and full WordPress setups—I'm always working on projects that solve real problems.
 
@@ -10,7 +10,6 @@ Welcome to my GitHub! I build smart, automated solutions that make digital syste
 
 * 🤖 **Generative AI & Chatbot Developer** (Dialogflow, RASA, custom Python bots)
 * 🧠 **Agentic AI Workflows** – building autonomous task agents
-* 🌐 **WordPress Developer** – landing pages, business websites, API integrations
 * 🔗 **Automation Specialist** – Google Sheets, Email, Webhooks, Backend APIs
 * 💼 **Lead Generation & Outreach** – optimized systems for scaling businesses
 
