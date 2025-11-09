@@ -45,8 +45,8 @@ Welcome to my GitHub! I build smart, automated solutions that make digital syste
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** (Add your link here)
-* **Email:** (Your email here)
+* **LinkedIn:** ([Add yo ((https://www.linkedin.com/in/muzammil-baloch-0902612a5/))
+* **Email:** (muzambaloch22@gmail.com)
 
 If you like my work, feel free to ⭐ star a repo or connect!
 
